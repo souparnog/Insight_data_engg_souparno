@@ -1,2 +1,0 @@
-drug_name,num_prescriber,total_cost
-AMBIEN,1,400
